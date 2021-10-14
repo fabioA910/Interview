@@ -1,6 +1,6 @@
 import os
 import unittest
-from Interviewtask2 import API_response
+from Part2 import API_response
 
 class Testing(unittest.TestCase):
 
